@@ -63,6 +63,7 @@
 .resultadoLimpar input{
     font-size: 40px;
     padding-left: 15px;
+    color: black;
     width: 240px;
     height: 90px;
     border-radius: 10px;
